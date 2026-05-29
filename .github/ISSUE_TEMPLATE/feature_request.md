@@ -1,8 +1,9 @@
 ---
 name: 💡 Feature Request
-description: Suggest an idea for the Me2em protocol or SDK
+about: Suggest an idea for the Me2em protocol or SDK  ← было: description
 title: '[Feature]: '
 labels: ['enhancement', 'triage']
+assignees: []
 ---
 
 ## 🎯 Problem Statement

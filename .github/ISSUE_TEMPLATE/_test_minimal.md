@@ -1,6 +1,6 @@
 ---
 name: 🧪 Minimal Test
-description: Just testing if templates load
+about: Just testing if templates load
 ---
 
 ## Test
