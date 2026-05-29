@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-about: Report a bug or unexpected behavior in me2em-protocol  ← было: description
+about: Report a bug or unexpected behavior in me2em-protocol
 title: '[Bug]: '
 labels: ['bug', 'triage']
 assignees: []
